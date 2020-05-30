@@ -1,0 +1,2 @@
+# comp
+Sample Component
